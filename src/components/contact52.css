@@ -1,0 +1,153 @@
+.contact52-container {
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-direction: column;
+}
+ 
+.contact52-max-width {
+  align-self: center;
+}
+ 
+.contact52-section-title {
+  width: 100%;
+  margin-bottom: var(--dl-layout-space-threeunits);
+}
+ 
+.contact52-content1 {
+  gap: var(--dl-layout-space-oneandhalfunits);
+  display: flex;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-direction: column;
+}
+ 
+.contact52-content2 {
+  width: 995px;
+  height: 622px;
+  align-items: center;
+  flex-direction: row;
+  justify-content: flex-start;
+}
+ 
+.contact52-content3 {
+  gap: var(--dl-layout-space-oneandhalfunits);
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+}
+ 
+.contact52-content4 {
+  gap: 16px;
+  display: flex;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-direction: column;
+}
+ 
+.contact52-contact-info1 {
+  gap: var(--dl-layout-space-unit);
+  display: flex;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-direction: column;
+}
+ 
+.contact52-text12 {
+  align-self: flex-start;
+  text-align: center;
+}
+ 
+.contact52-content5 {
+  gap: 16px;
+  display: flex;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-direction: column;
+}
+ 
+.contact52-contact-info2 {
+  gap: var(--dl-layout-space-unit);
+  display: flex;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-direction: column;
+}
+ 
+.contact52-text14 {
+  align-self: flex-start;
+  text-align: center;
+}
+ 
+.contact52-content6 {
+  gap: 16px;
+  display: flex;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-direction: column;
+}
+ 
+.contact52-contact-info3 {
+  gap: var(--dl-layout-space-unit);
+  display: flex;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-direction: column;
+}
+ 
+.contact52-text17 {
+  align-self: flex-start;
+  text-align: center;
+}
+ 
+.contact52-image {
+  top: 101px;
+  right: 8px;
+  width: 270px;
+  height: 413px;
+  display: block;
+  position: absolute;
+  max-width: 767px;
+  align-self: center;
+  text-decoration: none;
+}
+ 
+.contact52-text19 {
+  display: inline-block;
+}
+ 
+.contact52-text20 {
+  display: inline-block;
+}
+ 
+.contact52-text21 {
+  display: inline-block;
+}
+ 
+.contact52-text22 {
+  display: inline-block;
+}
+ 
+.contact52-text23 {
+  display: inline-block;
+}
+ 
+.contact52-text24 {
+  display: inline-block;
+}
+ 
+.contact52-text25 {
+  display: inline-block;
+}
+ 
+.contact52-text26 {
+  display: inline-block;
+}
+ 
+@media(max-width: 991px) {
+  .contact52-content2 {
+    position: relative;
+    align-items: flex-start;
+    flex-direction: column;
+  }
+}

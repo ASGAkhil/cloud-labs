@@ -1,0 +1,127 @@
+.footer41-footer7 {
+  width: 100%;
+  height: auto;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  flex-shrink: 0;
+  flex-direction: column;
+  justify-content: center;
+}
+ 
+.footer41-max-width {
+  gap: var(--dl-layout-space-threeunits);
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+ 
+.footer41-content {
+  gap: var(--dl-layout-space-twounits);
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+ 
+.footer41-logo {
+  gap: 24px;
+  border: 2px dashed rgba(120, 120, 120, 0.4);
+  display: flex;
+  overflow: hidden;
+  align-items: flex-start;
+  flex-direction: column;
+}
+ 
+.footer41-links {
+  gap: var(--dl-layout-space-twounits);
+  display: flex;
+  align-items: flex-start;
+}
+ 
+.footer41-credits {
+  gap: var(--dl-layout-space-twounits);
+  display: flex;
+  align-self: stretch;
+  align-items: center;
+  flex-direction: column;
+}
+ 
+.footer41-row {
+  display: flex;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-shrink: 0;
+  justify-content: space-between;
+}
+ 
+.footer41-container {
+  display: flex;
+  align-items: flex-start;
+}
+ 
+.footer41-footer-links {
+  gap: 24px;
+  display: flex;
+  align-items: flex-start;
+}
+ 
+.footer41-text11 {
+  fill: var(--dl-color-theme-neutral-dark);
+  color: var(--dl-color-theme-neutral-dark);
+}
+ 
+.footer41-text14 {
+  display: inline-block;
+}
+ 
+.footer41-text15 {
+  display: inline-block;
+}
+ 
+.footer41-text16 {
+  display: inline-block;
+}
+ 
+.footer41-text17 {
+  display: inline-block;
+}
+ 
+.footer41-text18 {
+  display: inline-block;
+}
+ 
+.footer41-text19 {
+  display: inline-block;
+}
+ 
+.footer41-text20 {
+  display: inline-block;
+}
+ 
+.footer41-text21 {
+  display: inline-block;
+}
+ 
+@media(max-width: 767px) {
+  .footer41-row {
+    gap: var(--dl-layout-space-oneandhalfunits);
+    align-items: center;
+    flex-direction: column;
+    justify-content: center;
+  }
+}
+ 
+@media(max-width: 479px) {
+  .footer41-max-width {
+    gap: var(--dl-layout-space-oneandhalfunits);
+  }
+  .footer41-links {
+    flex-direction: column;
+  }
+  .footer41-footer-links {
+    align-items: center;
+    flex-direction: column;
+    justify-content: center;
+  }
+}
